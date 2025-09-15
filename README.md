@@ -25,7 +25,4 @@
 
 5. **Visualization Outputs**
    - Stacked bar charts for sentiment mix per day.
-   - Correlation matrix heatmap for metric relationships.
-
-   from google.colab import drive
-   drive.mount('/content/drive')
+   - Correlation matrix heatmap for metric relationships
